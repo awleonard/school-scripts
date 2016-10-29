@@ -1,4 +1,10 @@
 %%Setup
+% A script written in MATLAB with the objective of describing certain
+% characteristics of the entry of the Mars Pathfinder probe. 
+% TODO: Convert to python (in progress)
+% TODO: Check with professor about part H - I would be shocked if I 
+%       did that part properly.
+% Last Edit: 29 October 2016
 
 % Useful Constants and Quantities:
 gE  = 9.81 ;                     % Acc. due to gravity, Earth, m/s2
